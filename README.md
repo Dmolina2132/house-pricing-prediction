@@ -1,4 +1,20 @@
 
+# 🏙️ Madrid Rental Market Analysis
+
+This project explores and analyzes the rental housing market in the Community of Madrid using real-world data extracted from Fotocasa. The goal is to build a compact, modular, and insightful pipeline that demonstrates skills in web scraping, data wrangling, geospatial analysis, and visualization — all within the scope of a realistic data science project.
+
+## 🔍 Project Objectives
+
+- Scrape rental listing data for Madrid from [Fotocasa](https://www.fotocasa.es)
+- Clean and preprocess the dataset to normalize variables like price, size, and price per square meter
+- Perform exploratory and geospatial analysis to understand trends and outliers in rental prices
+- Create interactive maps and visuals that help compare prices across Madrid's neighborhoods and districts
+- Modularize the project to ensure maintainability and reusability
+
+## 📁 Project Structure
+ - Pending to define
+
+
 ## ⚙️ Tech Stack
 
 - **Python 3**
